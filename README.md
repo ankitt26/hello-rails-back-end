@@ -100,7 +100,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  rails s
+  rails server -p 3005
 ```
 
 
